@@ -1,0 +1,21 @@
+{
+  "name": "form_app",
+  "version": "1.0.0",
+  "description": "exercise to check knowledge of vue.js+router+vuex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --config build/webpack.config.dev.js"
+  },
+  "author": "alexplaksa17@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
+  }
+}
